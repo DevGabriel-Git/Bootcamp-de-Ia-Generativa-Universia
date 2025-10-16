@@ -1,0 +1,13 @@
+CHATGPT:
+Crie um ebook, padronizado para uma usina de alcool, contando a historia completa, detalhes perfeitos sem fugir da realidade, juntamente com exemplos, e brincadeiras que sejam intuitivas, com no máximo de 300 folhas. Tipo de usina: São Martinho, Raízen, Alcoeste. 
+
+Tom do texto: Um meio termo (explicações técnicas, mas com narração e piadas ocasionais) 
+Formato do ebook: PDF completo e diagramado (com capa, sumário, capítulos e rodapés bonitos) 
+Tópicos principais: Impactos ambientais e sustentabilidade, Vida dos trabalhadores e rotina da usina e Tecnologias modernas.
+
+Titulo: O Ouro Líquido do Campo: A História das Usinas de Álcool no Brasil
+Estilo: cinza, azul metálico, engrenagens 
+Autor: Gabriel Silva.
+
+GEMINI PARA CAPA:
+Criar imagem de uma usina de álcool e açúcar, moderna, com canas de açúcar ao lado e engrenagem em baixo, não quero uma imagem sem criatividade, use sua criatividade para criar a capa do meu ebook.
